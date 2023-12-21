@@ -1,4 +1,4 @@
-Simple App To Calculate Your BMI (Body Mass Index).
+Simple App Made Using Flutter To Calculate Your BMI (Body Mass Index). 
 
 ![image](https://github.com/Mohammed-Shabeer777/BMI-CALCULATOR-APP/assets/84914407/3f36120a-d613-43aa-90af-e9ce5e5b55df)
 
